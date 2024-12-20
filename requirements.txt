@@ -1,0 +1,5 @@
+pillow==10.4.0
+PyQt5==5.15.11
+numpy==2.2.0
+scikit-image==0.25.0
+pycryptodome==3.21.0
